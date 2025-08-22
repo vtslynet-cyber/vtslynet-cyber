@@ -33,5 +33,5 @@ Telegram bot for downloading videos from **TikTok / YouTube / Instagram**
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helloworlone-del&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloworlone-del&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vtslynet-cyber&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtslynet-cyber&layout=compact&theme=dark)
