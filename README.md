@@ -1,6 +1,6 @@
 # RED
 
-![Snake animation]([https://github.com/helloworlone-del/helloworlone-del/blob/main/github-snake.svg](https://github.com/vtslynet-cyber/vtslynet-cyber/blob/main/github-snake.svg))
+![Snake animation](https://raw.githubusercontent.com/vtslynet-cyber/vtslynet-cyber/main/github-snake.svg)
 
 I write various scripts and small projects.  
 I love automation and create tools to simplify everyday tasks.
